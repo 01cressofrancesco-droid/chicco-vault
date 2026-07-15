@@ -1,0 +1,17 @@
+[
+  {
+    "id": "master-euw",
+    "name": "MASTER EUW",
+    "rank": "Master 327 LP",
+    "level": 684,
+    "skins": 854,
+    "champions": 170,
+    "price": 150,
+    "server": "EUW",
+    "rare": [
+      "PAX Sivir",
+      "Black Alistar",
+      "King Rammus"
+    ]
+  }
+]
